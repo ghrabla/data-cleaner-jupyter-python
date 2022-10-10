@@ -1,0 +1,503 @@
+,Country,Age,Gender,Customer spendings
+0,Norway,71,Man,356
+1,Pakistan,37,Women,173
+2,Colombia,24,Women,105
+3,South Africa,37,Women,28
+4,France,42,Women,13
+5,Belgium,40,Women,380
+6,Belgium,47,Man,79
+7,Canada,46,Women,336
+8,Indonesia,58,Man,401
+9,Indonesia,41,Man,438
+10,South Africa,30,Man,59
+11,Brazil,27,Women,586
+12,Italy,63,Man,491
+13,Australia,28,Women,141
+14,Turkey,68,Women,524
+15,Nigeria,74,Man,258
+16,France,47,Man,477
+17,Pakistan,51,Man,585
+18,Germany,57,Women,32
+19,United States,60,Man,379
+20,Mexico,25,Man,82
+21,Netherlands,52,Women,30
+22,Norway,44,Women,125
+23,Poland,24,Women,349
+24,Vietnam,57,Man,317
+25,Costa Rica,27,Women,434
+26,Peru,29,Women,446
+27,China,53,Women,261
+28,India,41,Man,590
+29,Ireland,64,Man,141
+30,Austria,47,Man,453
+31,New Zealand,60,Man,184
+32,Costa Rica,67,Man,538
+33,Ireland,64,Man,193
+34,Philippines,25,Man,483
+35,Netherlands,52,Women,30
+36,Turkey,24,Women,104
+37,China,37,Women,504
+38,Brazil,56,Man,107
+39,China,24,Women,353
+40,Canada,35,Women,71
+41,South Korea,73,Women,264
+42,China,35,Man,149
+43,Germany,26,Man,536
+44,France,66,Women,240
+45,Mexico,49,Women,550
+46,Belgium,46,Women,61
+47,Pakistan,44,Man,288
+48,Mexico,58,Man,186
+49,Germany,52,Women,17
+50,United States,59,Women,349
+51,Costa Rica,68,Women,18
+52,Russian Federation,74,Women,521
+53,Sweden,38,Man,196
+54,France,69,Women,522
+55,Australia,46,Women,85
+56,Poland,47,Man,95
+57,Netherlands,20,Women,261
+58,Ukraine,50,Man,588
+59,Singapore,60,Man,455
+60,Mexico,32,Man,427
+61,Spain,72,Man,247
+62,Ireland,67,Man,247
+63,Indonesia,29,Man,563
+64,Belgium,37,Women,199
+65,Mexico,49,Women,389
+66,Philippines,67,Women,256
+67,New Zealand,22,Women,598
+68,Germany,29,Women,146
+69,New Zealand,68,Women,409
+70,Germany,36,Women,295
+71,Peru,25,Women,243
+72,Turkey,41,Women,518
+73,Norway,60,Man,150
+74,India,34,Women,476
+75,Colombia,66,Women,302
+76,China,35,Man,149
+77,South Africa,33,Women,477
+78,India,71,Man,147
+79,South Africa,56,Women,452
+80,Colombia,47,Man,118
+81,Russian Federation,48,Women,570
+82,Turkey,74,Women,259
+83,Russian Federation,24,Women,231
+84,Chile,60,Man,197
+85,Sweden,41,Women,311
+86,Italy,29,Women,226
+87,Chile,38,Man,279
+88,Belgium,37,Man,67
+89,Turkey,67,Women,194
+90,Belgium,73,Women,311
+91,Austria,45,Man,375
+92,Ukraine,19,Man,242
+93,Canada,25,Women,418
+94,Canada,64,Man,408
+95,China,40,Women,515
+96,Peru,28,Women,371
+97,New Zealand,69,Women,529
+98,South Korea,22,Man,419
+99,Pakistan,51,Man,532
+100,Sweden,27,Women,273
+101,Australia,29,Man,169
+102,Sweden,52,Man,552
+103,Singapore,71,Women,12
+104,South Africa,19,Man,382
+105,Ireland,49,Man,153
+106,New Zealand,34,Man,79
+107,Singapore,40,Women,426
+108,Indonesia,35,Man,455
+109,South Korea,59,Women,76
+110,Peru,69,Women,262
+111,Sweden,27,Women,276
+112,India,26,Man,275
+113,Australia,19,Women,192
+114,India,36,Women,378
+115,Pakistan,53,Man,271
+116,Philippines,60,Women,143
+117,Turkey,73,Women,588
+118,New Zealand,38,Women,343
+119,Ukraine,40,Women,484
+120,Nigeria,37,Man,510
+121,Belgium,34,Man,117
+122,Philippines,52,Women,558
+123,Ireland,18,Man,457
+124,Ukraine,26,Women,28
+125,Pakistan,41,Women,41
+126,Ukraine,28,Women,549
+127,Philippines,31,Women,184
+128,China,31,Man,303
+129,Netherlands,38,Man,490
+130,Sweden,71,Women,254
+131,Australia,44,Man,38
+133,Chile,25,Man,553
+134,Italy,38,Man,362
+135,Spain,47,Women,518
+136,Australia,38,Women,196
+137,Turkey,60,Man,594
+138,Australia,29,Man,97
+139,Netherlands,46,Women,223
+140,Mexico,30,Women,449
+141,Colombia,68,Women,272
+142,Peru,32,Man,280
+143,Russian Federation,46,Women,296
+144,Italy,36,Man,234
+145,Ukraine,33,Man,295
+146,United States,20,Man,499
+147,Colombia,19,Man,128
+149,Spain,70,Women,328
+150,Netherlands,28,Man,432
+151,Vietnam,56,Man,467
+152,Brazil,25,Man,335
+153,France,45,Man,300
+154,Colombia,19,Man,128
+155,Austria,63,Women,241
+156,Ukraine,53,Man,25
+157,Vietnam,48,Man,226
+158,Ukraine,36,Women,418
+159,Philippines,51,Man,592
+160,Indonesia,55,Man,263
+161,Netherlands,24,Women,188
+162,United States,40,Man,531
+163,Vietnam,40,Man,11
+164,Austria,41,Man,22
+165,Australia,57,Women,328
+166,Brazil,21,Women,38
+167,Russian Federation,29,Man,433
+168,United States,51,Women,496
+169,Russian Federation,58,Women,264
+170,Netherlands,50,Man,421
+171,Turkey,63,Man,279
+172,Indonesia,34,Man,464
+173,Germany,40,Man,524
+174,Poland,55,Man,549
+175,Russian Federation,65,Women,207
+176,New Zealand,20,Women,158
+177,China,29,Women,196
+178,Colombia,34,Women,584
+179,Chile,45,Women,339
+180,China,18,Women,153
+181,Germany,69,Women,353
+182,Germany,54,Women,466
+183,New Zealand,23,Women,276
+184,Austria,50,Women,194
+185,Poland,58,Man,361
+186,Brazil,48,Women,66
+187,France,34,Women,525
+188,China,18,Women,413
+189,Austria,27,Women,558
+190,Mexico,45,Women,507
+191,China,49,Women,130
+192,Norway,65,Women,148
+193,Chile,42,Man,177
+194,Colombia,22,Man,487
+195,Sweden,68,Women,256
+196,Ireland,69,Man,466
+197,Vietnam,39,Women,261
+198,Chile,65,Women,267
+199,Netherlands,53,Women,454
+200,Nigeria,37,Women,411
+201,Colombia,18,Man,195
+202,Vietnam,48,Man,61
+203,Austria,19,Man,122
+204,Netherlands,19,Women,530
+205,Netherlands,41,Women,554
+206,Ireland,35,Man,591
+207,Pakistan,22,Man,254
+208,France,67,Women,463
+209,Mexico,68,Man,276
+210,Italy,23,Women,124
+211,Peru,24,Women,71
+212,Indonesia,23,Man,333
+213,Spain,71,Man,57
+214,Peru,62,Man,489
+215,South Korea,71,Women,149
+216,Turkey,59,Man,579
+217,Norway,43,Women,15
+218,Brazil,24,Women,73
+219,Chile,65,Women,448
+220,Mexico,41,Man,501
+221,Colombia,24,Man,155
+222,Ukraine,44,Women,538
+223,South Korea,34,Women,540
+224,Ireland,20,Man,12
+225,Belgium,21,Women,40
+226,India,42,Women,49
+227,Brazil,74,Man,593
+228,Indonesia,49,Man,339
+229,Ukraine,67,Man,128
+230,Germany,61,Women,221
+231,Australia,55,Man,437
+232,Austria,69,Women,530
+233,Spain,73,Women,528
+234,Italy,35,Women,72
+235,Spain,30,Women,122
+236,Pakistan,67,Women,96
+237,Peru,28,Women,500
+238,South Korea,66,Man,513
+239,Pakistan,65,Women,573
+240,Germany,56,Man,303
+241,Vietnam,25,Women,565
+242,Sweden,73,Man,184
+243,China,52,Man,109
+244,South Africa,33,Women,160
+245,Vietnam,58,Man,448
+246,Colombia,37,Women,373
+247,Belgium,39,Women,153
+248,Russian Federation,38,Women,577
+249,Ireland,71,Women,311
+250,Italy,66,Women,152
+251,Australia,66,Women,555
+252,Mexico,51,Man,572
+253,Peru,58,Women,357
+254,Sweden,19,Man,85
+255,Costa Rica,30,Man,79
+256,Philippines,74,Man,125
+257,Costa Rica,60,Women,596
+258,Vietnam,56,Women,128
+259,Netherlands,73,Man,78
+260,Costa Rica,55,Man,387
+261,New Zealand,25,Women,414
+262,Canada,44,Women,355
+263,New Zealand,58,Man,331
+264,United States,25,Women,265
+265,Australia,56,Women,189
+266,South Korea,33,Man,376
+267,Indonesia,23,Man,151
+268,Australia,38,Man,559
+269,Peru,68,Man,506
+270,Mexico,50,Women,318
+271,Peru,40,Man,541
+272,Ukraine,48,Women,267
+273,New Zealand,19,Women,199
+274,Poland,20,Women,184
+275,United States,67,Man,380
+276,Spain,51,Man,269
+277,United Kingdom,62,Man,207
+278,Belgium,50,Man,50
+279,South Africa,48,Man,253
+280,Nigeria,27,Women,57
+281,Italy,61,Man,34
+282,Peru,38,Women,508
+283,Ireland,49,Women,525
+284,Russian Federation,48,Man,317
+285,South Africa,43,Man,318
+286,United States,22,Man,545
+287,New Zealand,53,Women,360
+288,South Africa,47,Man,356
+289,France,74,Man,278
+290,Sweden,22,Women,296
+291,Costa Rica,23,Women,441
+292,Ireland,71,Man,292
+293,Poland,64,Man,491
+294,Mexico,29,Women,527
+295,Brazil,69,Women,486
+296,Netherlands,62,Man,574
+297,South Korea,47,Man,273
+298,South Korea,52,Women,318
+299,Vietnam,23,Man,478
+300,France,32,Women,150
+301,Pakistan,22,Man,565
+302,Ireland,33,Man,550
+303,Nigeria,64,Man,477
+304,Philippines,40,Women,323
+305,Mexico,68,Women,203
+306,Poland,23,Women,485
+307,South Africa,54,Man,527
+308,Chile,29,Man,501
+309,Canada,54,Women,57
+310,Norway,67,Women,455
+311,Austria,29,Man,421
+312,South Africa,24,Women,190
+313,Austria,28,Women,252
+314,Italy,45,Women,20
+315,Nigeria,21,Man,286
+316,South Korea,35,Women,285
+317,Netherlands,33,Women,433
+318,China,34,Women,494
+319,New Zealand,37,Women,508
+320,Indonesia,30,Women,420
+321,Austria,70,Women,373
+322,Canada,67,Man,540
+323,South Africa,57,Man,131
+324,Norway,35,Women,433
+325,France,62,Man,240
+326,Germany,21,Women,281
+327,Sweden,72,Man,244
+328,Brazil,44,Women,469
+329,Germany,62,Man,241
+330,Germany,51,Women,475
+331,Ireland,40,Women,67
+332,Germany,55,Women,221
+333,China,68,Man,297
+334,Germany,57,Women,310
+335,Italy,44,Man,346
+336,Colombia,42,Man,466
+337,United Kingdom,36,Women,276
+338,South Korea,21,Women,523
+339,United Kingdom,55,Women,111
+340,Pakistan,36,Women,156
+341,China,47,Man,157
+342,Chile,45,Man,89
+343,South Africa,50,Man,391
+344,Indonesia,29,Man,286
+345,Indonesia,59,Man,293
+346,Belgium,34,Women,92
+347,United States,50,Man,296
+348,Nigeria,43,Women,512
+349,Spain,29,Women,525
+350,Russian Federation,45,Man,376
+351,Italy,21,Man,500
+352,South Africa,55,Man,464
+353,India,59,Women,299
+354,Ukraine,72,Women,403
+355,India,49,Man,198
+356,France,45,Women,349
+357,Germany,38,Man,568
+358,Austria,67,Women,122
+359,Singapore,43,Women,14
+360,Spain,49,Women,594
+361,Vietnam,50,Women,578
+362,Russian Federation,65,Women,343
+363,New Zealand,19,Women,557
+364,Chile,59,Man,399
+365,United States,42,Women,36
+366,Belgium,74,Man,308
+367,United Kingdom,28,Man,274
+368,Indonesia,42,Women,472
+369,Singapore,72,Women,171
+370,Spain,52,Man,455
+371,Ukraine,46,Women,58
+372,Chile,47,Women,129
+373,Canada,46,Man,453
+374,United States,30,Man,576
+375,United Kingdom,62,Women,75
+376,United States,47,Man,310
+377,Sweden,40,Man,458
+378,Poland,66,Man,473
+379,Norway,36,Women,489
+380,France,72,Man,270
+381,Netherlands,40,Man,318
+382,China,69,Women,512
+383,India,69,Women,363
+384,Turkey,58,Man,160
+385,Chile,41,Man,318
+386,Australia,44,Women,506
+387,Costa Rica,44,Man,115
+388,Belgium,36,Man,74
+389,Mexico,37,Man,72
+390,Nigeria,24,Women,489
+391,Brazil,51,Women,581
+392,Mexico,62,Women,572
+393,Singapore,23,Man,447
+394,Netherlands,71,Man,592
+395,Nigeria,66,Man,324
+396,Brazil,51,Man,147
+397,Netherlands,51,Women,494
+398,New Zealand,39,Women,502
+399,Mexico,60,Man,338
+400,United States,23,Women,136
+401,Ukraine,32,Women,291
+402,Turkey,42,Women,292
+403,Italy,68,Man,181
+404,Chile,73,Man,398
+405,Philippines,57,Man,260
+406,Nigeria,28,Women,374
+407,Spain,57,Man,256
+408,Netherlands,55,Man,482
+409,India,61,Women,390
+410,United States,40,Women,331
+411,New Zealand,42,Man,236
+412,Austria,68,Women,567
+413,Indonesia,51,Man,14
+414,South Africa,65,Man,281
+415,Russian Federation,21,Women,243
+416,India,38,Man,522
+417,United Kingdom,53,Man,87
+418,Belgium,22,Women,568
+419,Philippines,54,Man,447
+420,Sweden,36,Women,35
+421,United Kingdom,44,Women,330
+422,France,56,Women,83
+423,Norway,65,Women,148
+424,United States,51,Man,142
+425,Ireland,36,Man,147
+426,France,57,Women,421
+427,Norway,52,Man,182
+428,Indonesia,70,Man,293
+429,Vietnam,23,Women,561
+430,South Africa,35,Women,456
+431,Philippines,53,Man,464
+432,Ireland,26,Women,243
+433,China,18,Man,341
+434,United States,54,Women,307
+435,Poland,30,Man,86
+436,Costa Rica,45,Women,146
+437,United States,71,Women,422
+438,New Zealand,52,Man,178
+439,Poland,52,Women,493
+440,United States,57,Women,293
+441,Ireland,34,Man,329
+442,Austria,27,Women,190
+443,Philippines,45,Man,378
+444,India,70,Women,260
+445,South Korea,61,Man,480
+446,Mexico,74,Man,408
+447,Netherlands,71,Women,377
+448,Philippines,49,Women,224
+449,France,72,Women,242
+450,India,37,Women,587
+451,United States,45,Man,209
+452,Philippines,41,Man,421
+453,Ukraine,74,Women,363
+454,Indonesia,70,Women,51
+455,Chile,62,Man,257
+456,Ireland,58,Man,221
+457,Norway,67,Man,450
+458,New Zealand,36,Man,485
+459,Colombia,51,Women,489
+460,Philippines,45,Man,143
+461,Mexico,45,Women,428
+462,United Kingdom,43,Man,201
+463,Colombia,21,Women,79
+464,Belgium,64,Women,307
+465,Spain,57,Women,266
+466,Ukraine,58,Man,464
+467,Norway,54,Women,343
+468,Costa Rica,51,Women,578
+469,Mexico,45,Man,537
+470,New Zealand,63,Women,50
+471,Singapore,36,Man,165
+472,Netherlands,44,Man,282
+473,Peru,24,Women,204
+474,Canada,21,Women,388
+475,Mexico,29,Man,431
+476,Ireland,73,Man,173
+477,United States,65,Women,143
+478,Vietnam,63,Women,334
+479,Brazil,54,Women,341
+480,Nigeria,38,Man,549
+481,Russian Federation,68,Women,138
+483,South Africa,33,Women,91
+484,Costa Rica,26,Women,398
+485,Brazil,65,Women,35
+486,Brazil,46,Women,256
+487,Costa Rica,59,Women,13
+488,Mexico,59,Man,549
+489,Mexico,23,Man,114
+490,Norway,29,Man,93
+491,China,49,Women,412
+492,Ireland,60,Women,166
+493,South Africa,72,Women,171
+494,Austria,27,Women,82
+495,Ukraine,67,Man,347
+496,Peru,68,Women,288
+497,Singapore,31,Man,379
+498,Pakistan,59,Man,372
+499,Austria,27,Women,82
+500,South Africa,28,Women,182
+501,France,46,Women,25
+502,Peru,43,Women,42
+503,China,20,Women,511
+504,United States,72,Women,518
