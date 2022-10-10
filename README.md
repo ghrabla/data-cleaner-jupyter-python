@@ -1,4 +1,4 @@
 # data-cleaner-jupyter-python
-this is a python program that make to clean your data which mean remove columns rows by its values 
-if you wanna use , you should install python,pandas,jupyter notebook
-and then run commands inside untitled.py file 
+this is a python program that make you clean your data which mean remove columns and rows by its values 
+if you wanna use it, you should install python,pandas,jupyter notebook
+and then run code inside untitled.py file 
